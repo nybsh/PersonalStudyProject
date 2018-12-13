@@ -1,0 +1,8 @@
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\bin\Debug\MongoDBProj.exe.config
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\bin\Debug\MongoDBProj.exe
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\bin\Debug\MongoDBProj.pdb
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\bin\Debug\MongoDB.Bson.dll
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\bin\Debug\MongoDB.Driver.dll
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\obj\Debug\MongoDBProj.csprojResolveAssemblyReference.cache
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\obj\Debug\MongoDBProj.exe
+G:\MyStudyProj\201811\MongoDBProj\MongoDBProj\obj\Debug\MongoDBProj.pdb
