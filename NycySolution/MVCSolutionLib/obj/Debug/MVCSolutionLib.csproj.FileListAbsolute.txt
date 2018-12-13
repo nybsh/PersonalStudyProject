@@ -1,0 +1,10 @@
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MVCSolutionLib\bin\Debug\MVCSolutionLib.dll
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MVCSolutionLib\bin\Debug\MVCSolutionLib.pdb
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.csprojResolveAssemblyReference.cache
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.dll
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.pdb
+G:\MyStudyProj\Project2018\NycySolution\MVCSolutionLib\bin\Debug\MVCSolutionLib.dll
+G:\MyStudyProj\Project2018\NycySolution\MVCSolutionLib\bin\Debug\MVCSolutionLib.pdb
+G:\MyStudyProj\Project2018\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.csprojResolveAssemblyReference.cache
+G:\MyStudyProj\Project2018\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.dll
+G:\MyStudyProj\Project2018\NycySolution\MVCSolutionLib\obj\Debug\MVCSolutionLib.pdb

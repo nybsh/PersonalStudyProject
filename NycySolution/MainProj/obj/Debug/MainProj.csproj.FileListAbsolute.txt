@@ -1,0 +1,16 @@
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\bin\Debug\MainProj.exe.config
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\bin\Debug\MainProj.exe
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\bin\Debug\MainProj.pdb
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\bin\Debug\NycyDbTools.dll
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\bin\Debug\NycyDbTools.pdb
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\obj\Debug\MainProj.csprojResolveAssemblyReference.cache
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\obj\Debug\MainProj.exe
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\MainProj\obj\Debug\MainProj.pdb
+G:\MyStudyProj\Project2018\NycySolution\MainProj\bin\Debug\MainProj.exe.config
+G:\MyStudyProj\Project2018\NycySolution\MainProj\bin\Debug\MainProj.exe
+G:\MyStudyProj\Project2018\NycySolution\MainProj\bin\Debug\MainProj.pdb
+G:\MyStudyProj\Project2018\NycySolution\MainProj\bin\Debug\NycyDbTools.dll
+G:\MyStudyProj\Project2018\NycySolution\MainProj\bin\Debug\NycyDbTools.pdb
+G:\MyStudyProj\Project2018\NycySolution\MainProj\obj\Debug\MainProj.csprojResolveAssemblyReference.cache
+G:\MyStudyProj\Project2018\NycySolution\MainProj\obj\Debug\MainProj.exe
+G:\MyStudyProj\Project2018\NycySolution\MainProj\obj\Debug\MainProj.pdb

@@ -1,0 +1,13 @@
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\DBTool.exe.config
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\DBTool.exe
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\DBTool.pdb
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.csprojResolveAssemblyReference.cache
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.dataOperate.resources
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.Properties.Resources.resources
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.csproj.GenerateResource.Cache
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.exe
+G:\MyStudyProj\Project2018\NycySolution\DBTool\obj\Debug\DBTool.pdb
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\Google.Protobuf.dll
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\MySql.Data.dll
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\Google.Protobuf.xml
+G:\MyStudyProj\Project2018\NycySolution\DBTool\bin\Debug\MySql.Data.xml

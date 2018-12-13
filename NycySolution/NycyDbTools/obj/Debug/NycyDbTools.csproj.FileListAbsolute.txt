@@ -1,0 +1,10 @@
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\NycyDbTools\bin\Debug\NycyDbTools.dll
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\NycyDbTools\bin\Debug\NycyDbTools.pdb
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.csprojResolveAssemblyReference.cache
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.dll
+F:\gongchao\JobProject\NycyProject\trunk\Code\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.pdb
+G:\MyStudyProj\Project2018\NycySolution\NycyDbTools\bin\Debug\NycyDbTools.dll
+G:\MyStudyProj\Project2018\NycySolution\NycyDbTools\bin\Debug\NycyDbTools.pdb
+G:\MyStudyProj\Project2018\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.csprojResolveAssemblyReference.cache
+G:\MyStudyProj\Project2018\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.dll
+G:\MyStudyProj\Project2018\NycySolution\NycyDbTools\obj\Debug\NycyDbTools.pdb
